@@ -1,1 +1,1 @@
-# CodeBetter
+Welcome to this repository, where I share programming insights and resources that I believe will help you expand your knowledge. If you find the content useful, please consider starring the repository :)
