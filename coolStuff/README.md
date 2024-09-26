@@ -4,7 +4,7 @@ These tips, concepts, and best practices have helped me level up as a developer,
 
 
 
----
+
 
 ##  Table of Contents
 1. [Load Balancing](LoadBalancing.md)
