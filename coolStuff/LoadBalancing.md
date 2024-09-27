@@ -27,3 +27,9 @@ Load balancing is a process that evenly distributes network or application traff
 In a web application, if you have three servers, a load balancer will ensure that when users visit the site, their requests are spread across all three servers instead of one being overworked.
 
 In short, load balancing helps maintain the stability, speed, and scalability of systems.
+<br><br><br>
+ This space is consistently being updated by Armaan.
+
+---
+
+CoderBetter 🚀
